@@ -19,3 +19,5 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/ilija-mihajlovic/ilija-mihajlovic/output/github-contribution-grid-snake.svg" />
+
