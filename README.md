@@ -1,4 +1,6 @@
+<a target="_blank" rel="noopener noreferrer" href="https://ilija-mihajlovic.netlify.app">
 <img src="https://raw.githubusercontent.com/ilija-mihajlovic/ilija-mihajlovic/output/Introduction.gif" />
+</a>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
