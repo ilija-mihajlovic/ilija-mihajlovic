@@ -25,6 +25,7 @@
 <p  align="center">
 <img src="https://raw.githubusercontent.com/ilija-mihajlovic/ilija-mihajlovic/output/github-contribution-grid-snake.svg" />
   
-<p  align="center">
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+<div  align="center">
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+</div>
 
