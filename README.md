@@ -1,4 +1,15 @@
 <img src="https://raw.githubusercontent.com/ilija-mihajlovic/ilija-mihajlovic/output/Introduction.gif" />
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Automation and Robotics at the University of Electrical Engineering in Tuzla.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can contact me via email at ilija.mihajlovic59@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Resume](https://ilija-mihajlovic.netlify.app) for more details about me. I'm open to feedback and suggestions!
+
 <div align=center>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
