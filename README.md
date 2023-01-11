@@ -1,16 +1,21 @@
-### Hi there 👋
+<div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
-<!--
-**ilija-mihajlovic/ilija-mihajlovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📈 Statistics 📈
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/ilija-mihajlovic">
+    <img src="https://github-readme-stats.vercel.app/api?username=ilija-mihajlovic&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilija-mihajlovic&theme=github-dark-blue&hide_border=true" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[//]: # (    <img src="https://activity-graph.herokuapp.com/graph?username=ilija-mihajlovic&theme=react-dark" />)
+</a>
+</p>
+
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+</div>
+
